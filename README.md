@@ -23,6 +23,24 @@ It is a React-based application that demonstrates form handling, validation, and
 * Tailwind CSS
 
 ---
+## Screenshots
+
+## Home Page
+<img src="./screenshots/Screenshot_contactApp1.png" width="600"/>
+
+## Form 
+<img src="./screenshots/Screenshot_contactApp2.png" width="600"/>
+
+## Search list
+<img src="./screenshots/Screenshot_contactApp3.png" width="600"/>
+
+## contact List
+<img src="./screenshots/Screenshot_contactApp4.png" width="600"/>
+
+## Edit contact List
+<img src="./screenshots/Screenshot_contactApp5.png" width="600"/>
+
+---
 
 ## ▶️ How to Run the Project
 
@@ -38,12 +56,6 @@ npm install
 ```bash
 npm start
 ```
-
----
-
-## Screenshots
-
-<img src="./screenshots/Screenshot_contactApp1.png" width="600"/>
 
 ---
 
