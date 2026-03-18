@@ -48,36 +48,6 @@ useEffect(() => {
   };
 
   return (
-   /* <div style={{ border: "1px solid black", padding: "10px" }}>
-      <h3>Contact Form</h3>
-
-      <input
-        name="name"
-        placeholder="Name"
-        value={form.name}
-        onChange={handleChange}
-      />
-      <p>{errors.name}</p>
-
-      <input
-        name="mobile"
-        placeholder="Mobile"
-        value={form.mobile}
-        onChange={handleChange}
-      />
-      <p className="text-red-500 text-sm">{errors.mobile}</p>
-
-      <input
-        name="email"
-        placeholder="Email"
-        value={form.email}
-        onChange={handleChange}
-      />
-      <p>{errors.email}</p>
-
-      <button onClick={handleSubmit}>Submit</button>
-      <button onClick={onClose}>Cancel</button>
-    </div>*/
     <div className="fixed inset-0 bg-black/40 backdrop-blur-sm flex justify-center items-center z-50">
   <div className="bg-white w-[380px] p-6 rounded-2xl shadow-2xl animate-fadeIn">
     

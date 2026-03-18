@@ -33,7 +33,7 @@ const ContactsView = () => {
   const handleAddContact = (newContact) => {
     const newEntry = {
       ...newContact,
-      id: Date.now(), // simple unique id
+      id: Date.now(), 
     };
 
     const updated = [...contacts, newEntry];
@@ -58,7 +58,7 @@ const ContactsView = () => {
       .then((res) => res.json())
       .then((data) => {
         console.log(data);
-        setContacts(data || []); // safety
+        setContacts(data || []);
         setFilteredContacts(data || []);
         setLoading(false);
       })
