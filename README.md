@@ -38,13 +38,6 @@ npm install
 ```bash
 npm start
 ```
-
----
-
-## 🌐 Live Demo
-
-(Add your deployed link here if available)
-
 ---
 
 ## 📂 Folder Structure
@@ -58,3 +51,4 @@ npm start
 ## 👩‍💻 Author
 
 Abinaya
+abinayagovindarajan10@gmail.com
