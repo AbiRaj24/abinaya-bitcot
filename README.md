@@ -38,6 +38,13 @@ npm install
 ```bash
 npm start
 ```
+
+---
+
+## Screenshots
+
+<img src="./screenshots/Screenshot_contactApp1.png" width="600"/>
+
 ---
 
 ## 📂 Folder Structure
@@ -51,4 +58,3 @@ npm start
 ## 👩‍💻 Author
 
 Abinaya
-abinayagovindarajan10@gmail.com
